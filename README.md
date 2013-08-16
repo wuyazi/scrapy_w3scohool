@@ -8,6 +8,8 @@ This is a scrapy project used to get titles and contents from www.w3school.com.c
 
     $ pip install scrapy
     $ git clone git@github.com:wuyazi/scrapy_w3scohool.git
+    or
+    $ git clone https://github.com/wuyazi/scrapy_w3scohool.git
 
 ## Scraping
 
